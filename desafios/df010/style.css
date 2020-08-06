@@ -1,9 +1,15 @@
 header {
     background-color: green;
-    color: white;
     width: 1000px;
     height: 100px;
-    margin: auto;
+    border: 500px, solid, green;
     padding: 100px;
 }
-
+footer {
+    
+}
+h2 {
+    background-color: green;
+    color: white;
+    border: 25px po green;
+}
